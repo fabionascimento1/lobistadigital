@@ -584,5 +584,15 @@ body {
 }
 
 
+.footerlinks{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.footerlinks a{
+    color: rgb(153, 153, 153);
+    margin-right: 10px;
+}
+
 
 

@@ -1,0 +1,14 @@
+.title{
+    font-size: 24px;
+    margin: 10px 0;
+}
+.description h4{
+    margin: 10px 0;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: rgb(133, 133, 133);
+}
+.description p {
+    margin: 10px 0;
+    line-height: 22px;
+}
