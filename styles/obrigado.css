@@ -1,0 +1,47 @@
+.thanks{
+    text-align: center;
+    width: 50%;
+    padding: 5% 0;
+}
+
+h1{
+    font-size: 55px;
+    color: #fff;
+    margin: 20px 0;
+}
+
+h2{
+    font-size: 25px;
+    color: #fff;
+    margin: 50px 0;
+    line-height: 39px;
+}
+
+strong{
+    color: #1DAAF5;
+}
+
+.myBtn2 a{
+    padding: 29px;
+    color: blanchedalmond;
+    font-size: 20px;
+}
+
+@media (min-width:280px) and (max-width: 1080px) {
+    .thanks{
+        width: 90%;
+        padding: 3% 0;
+    }
+    h1{
+        font-size: 45px;
+        color: #fff;
+        margin: 20px 0;
+    }
+    
+    h2{
+        font-size: 21px;
+        color: #fff;
+        margin: 50px 0;
+        line-height: 32px;
+    }
+}
